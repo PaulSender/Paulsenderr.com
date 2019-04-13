@@ -1123,24 +1123,39 @@ input, select, textarea {
 		color: white;
   font-size: 20px;
   position: absolute;
-  top: 50%;
+  top: 34%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  text-align: center;
+
 	}
 
 	img.demosSlots{
 		width: 75%;
 		height: 75%;
 		margin: 12.5%;
+		margin-bottom: 0;
+		margin-top: 0;
 
 	}
 	img.demosSlots2 {
 		width: 37.35%;
 		height: 25%;
-		margin-left: 9%;
+		margin-left: 12.5%;
+	}
+	img.demosSlots3 {
+		width: 37.35%;
+		height: 25%;
+
+	}
+	.demolites {
+	margin-left: 12.5%;
+	}
+	ul.demolites {
+	margin-left: 12.5%;
+	margin-bottom: 10%;
+
 	}
 
 
